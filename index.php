@@ -5,6 +5,7 @@ header("Content-type: text/html; charset=utf-8");
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="q055qk8tv49sus0kFqdwjnjNrH0N0qWbh81toCtD6Vs" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gateway to Adventure: Your Expert Guide to Wellington International Airport (WLG)</title>
@@ -54,7 +55,7 @@ header("Content-type: text/html; charset=utf-8");
         <h1>Gateway to Adventure: Your Expert Guide to Wellington International Airport (WLG)</h1>
 
         <h2 class="section-title">Introduction: Unveiling Wellington International Airport</h2>
-        <p>Nestled in the vibrant capital city of New Zealand, Wellington International Airport (WLG) stands as more than just a transit hub—it's a gateway to boundless adventures. Whether you're a seasoned traveler or a first-time visitor, this comprehensive guide is your ticket to navigating this bustling airport with ease and unlocking the treasures awaiting you beyond its terminals.</p>
+        <p>Nestled in the vibrant capital city of New Zealand, <a href="https://wellingtonairportnz.com/">Wellington International Airport</a> stands as more than just a transit hub—it's a gateway to boundless adventures. Whether you're a seasoned traveler or a first-time visitor, this comprehensive guide is your ticket to navigating this bustling airport with ease and unlocking the treasures awaiting you beyond its terminals.</p>
 
         <h2 class="section-title">1. Welcome to Wellington: An Overview of WLG</h2>
         <ul>
@@ -73,7 +74,7 @@ header("Content-type: text/html; charset=utf-8");
         <h2 class="section-title">3. Culinary Delights: Savory and Sweet Eats at WLG</h2>
         <ul>
             <li><strong>Local Flavors:</strong> Indulge in the diverse culinary offerings available at WLG, featuring an array of local delicacies and international cuisines to tantalize your taste buds.</li>
-            <li><strong>Cafés and Restaurants:</strong> From cozy cafés serving artisanal coffee to gourmet restaurants showcasing New Zealand's finest ingredients, explore the dining options that await you at WLG.</li>
+            <li><strong>Cafés and Restaurants:</strong> From cozy cafés serving artisanal coffee to gourmet restaurants showcasing New Zealand's finest ingredients, explore the <a href="https://wellingtonairportnz.vercel.app/">dining options</a> that await you at WLG.</li>
             <li><strong>Grab-and-Go Fare:</strong> For those on the move, discover convenient grab-and-go options perfect for a quick bite before boarding your flight.</li>
         </ul>
 
